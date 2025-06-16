@@ -3,9 +3,10 @@ secondary_name: "Xinye"
 navbar_name: "Xinye Zheng"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
+  name: Undergraduate at Hefei University of Technology
+- logo: /assets/images/badges/USTClogo.png
+  name: Research Intern at University of Science and Technology of China
 
 
 email: "shaneyale@mail.hfut.edu.cn"
