@@ -4,9 +4,9 @@ navbar_name: "Xinye Zheng"
 
 positions:
 - logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
-  name: Undergraduate at Hefei University of Technology
+  name: Undergraduate @ Hefei University of Technology
 - logo: /assets/images/badges/USTClogo.png
-  name: Research Intern at University of Science and Technology of China
+  name: Research Intern @ University of Science and Technology of China
 
 
 email: "shaneyale@mail.hfut.edu.cn"
@@ -24,16 +24,16 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I'm an undergraduate student majoring in Computer Science at Hefei University of Technology. 
-    As an early-stage researcher, I'm passionate about exploring cutting-edge technologies and welcome any academic discussions (feel free to reach me via email).
+    As an early-stage researcher, I welcome any discussions (feel free to reach me via email).
   </p>
   <p>
-    My research focuses on Natural Language Processing, particularly Large Language Models (LLMs) and Multimodal LLMs, with additional interest in AI for Science. 
+    My research focuses on Large Language Models (LLMs) and Multimodal LLMs, with additional interest in AI for Science. 
   </p>
   <p>
     Beyond my academic work, I enjoy mountaineering 🧗 , hiking 🥾 , and landscape photography 📸 . 
   </p>
   <p>
-    My career goal is to become an AI Engineer at tech companies like Microsoft or Bytedance etc.
+    My career goal is to become an Engineer at tech companies like Microsoft or Bytedance etc.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -55,9 +55,9 @@ experience:
     date: Jul. 2025 - Present
 
 awards:
-- name: National Scholarship
+- name: National Scholarship (2%)
   date: 2024
-- name: Fist Prize Scholarship at Hefei University of Technology
+- name: Fist Prize Scholarship at Hefei University of Technology (2%)
   date: 2024
 - name: Merit Student at Hefei University of Technology
   date: 2024
