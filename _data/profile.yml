@@ -51,12 +51,8 @@ education:
 
 
 experience:
-  - name: University of Science and Technology of China 
+  - name: Institute of Advanced Technology, University of Science and Technology of China
     logo: /assets/images/badges/USTClogo.png
-    position: Research Intern
-    date: Apr. 2025 - Present
-  - name: Institute of Advanced Technology, USTC
-    logo: /assets/images/badges/IAT.jpg
     position: Research Intern
     date: Apr. 2025 - Present
   - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
