@@ -4,7 +4,7 @@ navbar_name: "Xinye Zheng"
 
 positions:
 - logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
-  name: Undergraduate @ Hefei University of Technology
+  name: Undergraduate @ Hefei University of Technology 
 - logo: /assets/images/badges/USTClogo.png
   name: Research Intern @ University of Science and Technology of China
 
@@ -29,7 +29,7 @@ short_bio: >-
     As an early-stage researcher, I welcome any discussions (feel free to reach me via email below).
   </p>
   <p>
-    I'm a Research Intern at Institute of Advanced Technology (IAT), a joint institute by University of Science and Technology of China (USTC) <img src="/assets/images/badges/USTClogo.png" alt="USTC Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;"> and Chinese Academy of Sciences (CAS) <img src="/assets/images/badges/CAS.png" alt="CAS Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;">. I research Large Language Models (LLMs) and Multimodal LLMs, especially AI for science.
+    I'm a Research Intern at Institute of Advanced Technology (先进技术研究院), a joint institute by University of Science and Technology of China (中国科学技术大学) <img src="/assets/images/badges/USTClogo.png" alt="USTC Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;"> and Chinese Academy of Sciences (中国科学院) <img src="/assets/images/badges/CAS.png" alt="CAS Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;">. I research Large Language Models (LLMs) and Multimodal LLMs, especially AI for science.
   </p>
   <p>
     Beyond my academic work, I enjoy mountaineering 🧗 , hiking 🥾 , and landscape photography 📸 . 
@@ -43,7 +43,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Hefei University of Technology
+- name: Hefei University of Technology （合肥工业大学）
   logo: /assets/images/badges/HFUTlogo.png
   position: >- 
     B.S. in Computer Science <br/>
@@ -51,11 +51,11 @@ education:
 
 
 experience:
-  - name: Institute of Advanced Technology, University of Science and Technology of China
+  - name: Institute of Advanced Technology, University of Science and Technology of China (中国科学技术大学先进技术研究院)
     logo: /assets/images/badges/USTClogo.png
     position: Research Intern
     date: Apr. 2025 - Present
-  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
+  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center (合肥综合性国家科学中心人工智能研究院)
     logo: /assets/images/badges/AI.jpeg
     position: Research Intern
     date: Apr. 2025 - Present
