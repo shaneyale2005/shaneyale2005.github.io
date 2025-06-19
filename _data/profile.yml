@@ -43,7 +43,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Hefei University of Technology （合肥工业大学）
+- name: Hefei University of Technology (合肥工业大学)
   logo: /assets/images/badges/HFUTlogo.png
   position: >- 
     B.S. in Computer Science <br/>
