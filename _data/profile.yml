@@ -39,26 +39,26 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-# portrait_caption: >-
-#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_caption: >-
+  Phone Number：(+86) 188 3275 6106
 
 education:
 - name: Hefei University of Technology
   logo: /assets/images/badges/HFUTlogo.png
   position: >- 
     B.S. in Computer Science <br/>
-  date: Sep. 2023 - Present
+  date: 2023.09 - Present
 
 
 experience:
   - name: Institute of Advanced Technology, University of Science and Technology of China
     logo: /assets/images/badges/USTClogo.png
     position: Research Intern
-    date: Apr. 2025 - Present
+    date: 2025.04 - Present
   - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
     logo: /assets/images/badges/AI.jpeg
     position: Research Intern
-    date: Apr. 2025 - Present
+    date: 2025.04 - Present
 
 awards:
 - name: National Scholarship (Top 2%)
