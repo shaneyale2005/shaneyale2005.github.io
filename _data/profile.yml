@@ -47,18 +47,18 @@ education:
   logo: /assets/images/badges/HFUTlogo.png
   position: >- 
     B.S. in Computer Science <br/>
-  date: 2023.09 - Present
+  date: Sep. 2023 - Present
 
 
 experience:
   - name: Institute of Advanced Technology, University of Science and Technology of China
     logo: /assets/images/badges/USTClogo.png
     position: Research Intern
-    date: 2025.04 - Present
+    date: Apr. 2025 - Present
   - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
     logo: /assets/images/badges/AI.jpeg
     position: Research Intern
-    date: 2025.04 - Present
+    date: Apr. 2025 - Present
 
 awards:
 - name: National Scholarship (Top 2%)
