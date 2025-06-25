@@ -4,7 +4,7 @@ navbar_name: "Xinye Zheng"
 
 positions:
 - logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
-  name: Undergraduate @ Hefei University of Technology
+  name: Second-Year Undergraduate @ Hefei University of Technology
 - logo: /assets/images/badges/USTClogo.png
   name: Research Intern @ University of Science and Technology of China
 
@@ -32,7 +32,7 @@ short_bio: >-
     I'm a Research Intern at Institute of Advanced Technology (先进技术研究院), a joint institute by University of Science and Technology of China (中国科学技术大学) <img src="/assets/images/badges/USTClogo.png" alt="USTC Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;"> and Chinese Academy of Sciences (中国科学院) <img src="/assets/images/badges/CAS.png" alt="CAS Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;">. 
   </p>
   <p>
-    My research focuseson Large Language Models (LLMs), Multimodal LLMs and AI for science.
+    My research focuses on Large Language Models (LLMs), Multimodal LLMs and AI for science.
   </p>
   <p>
     Beyond my academic work, I enjoy mountaineering 🧗 , hiking 🥾 , and landscape photography 📸 . 
