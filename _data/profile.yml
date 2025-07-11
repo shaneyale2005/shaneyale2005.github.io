@@ -26,20 +26,24 @@ short_bio: >-
     I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology, China.
   </p>
   <p>
-    As an early-stage researcher, I welcome any discussions (feel free to reach me via email below).
-  </p>
-  <p>
     I'm a Research Intern at Institute of Advanced Technology (先进技术研究院), a joint institute by University of Science and Technology of China (中国科学技术大学) <img src="/assets/images/badges/USTClogo.png" alt="USTC Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;"> and Chinese Academy of Sciences (中国科学院) <img src="/assets/images/badges/CAS.png" alt="CAS Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;">. 
   </p>
   <p>
-    My research focuses on Large Language Models (LLMs), Multimodal LLMs and AI for science.
+    My research focuses on Large Language Models (LLMs), Multimodal LLMs and AI for science. The detailed research focuses are listed below.
+  </p>
+  <p>
+  <ol>
+    <li>Video Understanding in MLLM（多模态大语言模型的视频理解）</li>
+    <li>Speech Emotion Recognition（语音情感识别）</li>
+    <li>Affective Computing（情感计算）</li>
+    <li>AI for Science (AI+科学，例如AI+心理学、AI+生物学等)</li>
+  </ol>
   </p>
   <p>
     Beyond my academic work, I enjoy mountaineering 🧗 , hiking 🥾 , and landscape photography 📸 . 
   </p>
-  <p>
-    My dream job is to become an engineer at Microsoft, Bytedance, etc. in Beijing/Shanghai/Hangzhou. I will do my best.
-  </p>
+
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
