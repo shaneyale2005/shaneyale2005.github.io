@@ -14,7 +14,7 @@ email: "shaneyale@mail.hfut.edu.cn"
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: shaneyale2005
 #twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
@@ -26,17 +26,17 @@ short_bio: >-
     I'm an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology, China.
   </p>
   <p>
-    I'm a Research Intern at Institute of Advanced Technology (先进技术研究院), a joint institute by University of Science and Technology of China (中国科学技术大学) <img src="/assets/images/badges/USTClogo.png" alt="USTC Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;"> and Chinese Academy of Sciences (中国科学院) <img src="/assets/images/badges/CAS.png" alt="CAS Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;">. 
+    I'm a Research Intern at Institute of Advanced Technology, a joint institute by University of Science and Technology of China <img src="/assets/images/badges/USTClogo.png" alt="USTC Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;"> and Chinese Academy of Sciences <img src="/assets/images/badges/CAS.png" alt="CAS Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;">. 
   </p>
   <p>
     My research focuses on Large Language Models (LLMs), Multimodal LLMs and AI for science. The detailed research focuses are listed below.
   </p>
   <p>
   <ol>
-    <li>Video Understanding in MLLM（多模态大语言模型的视频理解）</li>
-    <li>Speech Emotion Recognition（语音情感识别）</li>
-    <li>Affective Computing（情感计算）</li>
-    <li>AI for Science (AI+科学，例如AI+心理学、AI+生物学等)</li>
+    <li>Video Understanding in MLLM</li>
+    <li>Speech Emotion Recognition</li>
+    <li>Affective Computing</li>
+    <li>AI for Science</li>
   </ol>
   </p>
   <p>
@@ -50,7 +50,7 @@ portrait_caption: >-
   Phone Number：(+86) 188 3275 6106
 
 education:
-- name: Hefei University of Technology (合肥工业大学)
+- name: Hefei University of Technology
   logo: /assets/images/badges/HFUTlogo.png
   position: >- 
     B.S. in Computer Science and Technology<br/>
@@ -58,11 +58,11 @@ education:
 
 
 experience:
-  - name: Institute of Advanced Technology, University of Science and Technology of China (中国科学技术大学先进技术研究院)
+  - name: Institute of Advanced Technology, University of Science and Technology of China
     logo: /assets/images/badges/USTClogo.png
     position: Research Intern
     date: 2025.07 - Present
-  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center (合肥综合性国家科学中心人工智能研究院)
+  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
     logo: /assets/images/badges/AI.jpeg
     position: Research Intern
     date: 2025.07 - Present
