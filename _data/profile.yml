@@ -4,9 +4,9 @@ navbar_name: "Xinye Zheng"
 
 positions:
 - logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
-  name: Third-Year Undergraduate @ Hefei University of Technology
+  name: Third-Year Undergraduate @ Hefei University of Technology (HFUT)
 - logo: /assets/images/badges/USTClogo.png
-  name: Research Intern @ University of Science and Technology of China
+  name: Research Intern @ University of Science and Technology of China (USTC)
 
 
 email: "shaneyale@mail.hfut.edu.cn"
@@ -44,25 +44,24 @@ short_bio: >-
   </p>
 
 
-
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Phone Number：(+86) 188 3275 6106
 
 education:
-- name: Hefei University of Technology
+- name: Hefei University of Technology (HFUT)
   logo: /assets/images/badges/HFUTlogo.png
   position: >- 
-    B.S. in Computer Science and Technology<br/>
+    B.E. in Computer Science and Technology<br/>
   date: 2023.09 - Present
 
 
 experience:
-  - name: Institute of Advanced Technology, University of Science and Technology of China
+  - name: Institute of Advanced Technology, University of Science and Technology of China (IAT, USTC)
     logo: /assets/images/badges/USTClogo.png
     position: Research Intern
     date: 2025.07 - Present
-  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
+  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center (IAI)
     logo: /assets/images/badges/AI.jpeg
     position: Research Intern
     date: 2025.07 - Present
