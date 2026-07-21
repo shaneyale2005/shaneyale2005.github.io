@@ -4,7 +4,7 @@ navbar_name: "Xinye's Homepage"
 
 positions:
 - logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
-  name: Third-Year Undergraduate @ Hefei University of Technology (HFUT)
+  name: Fourth-Year Undergraduate @ Hefei University of Technology (HFUT)
 - logo: /assets/images/badges/USTClogo.png
   name: Research Intern @ University of Science and Technology of China (USTC)
 
@@ -22,25 +22,33 @@ orcid: 0009-0008-2361-2591
 
 short_bio_text_justify: false
 short_bio: >-
-  <p> Welcome to my academic homepage. I am Xinye Zheng, from Cangzhou, Hebei, China. </p>
-  <p> Currently, I am an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology, where I am a member of the <a href="https://ci.hfut.edu.cn/info/1162/14469.htm" target="_blank">LMC</a> (媒体计算实验室) led by <a href="https://scholar.google.com/citations?hl=en&user=rHagaaIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Prof. Wang Meng</a> (汪萌). </p>
-  <p>
-    I'm also a Research Intern at Institute of Advanced Technology, a joint institute by University of Science and Technology of China <img src="/assets/images/badges/USTClogo.png" alt="USTC Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;"> and Chinese Academy of Sciences <img src="/assets/images/badges/CAS.png" alt="CAS Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 4px;">. 
+  <p>Welcome to my academic homepage. I am Xinye Zheng, from Cangzhou, Hebei Province, China.</p>
+
+  <p>Currently, I am an undergraduate student majoring in Computer Science and Technology at Hefei University of Technology,
+  where I am a member of the 
+  <a href="https://vut-hfut.github.io/index.html" target="_blank">Lab for Media Computing (LMC, 媒体计算实验室)</a> 
+  under the supervision of 
+  <a href="https://faculty.hfut.edu.cn/weiyanyan/zh_CN/index/450269/list/index.htm" target="_blank">Lecturer Yanyan Wei (韦炎炎讲师)</a> 
+  and 
+  <a href="https://www.hfut.edu.cn/info/1154/10846.htm" target="_blank">Prof. Meng Wang (汪萌教授)</a>.</p>
+
+  <p>Starting in 2027, I will join the 
+  <a href="https://ustc.fmclab.cn/home/" target="_blank">Future Media Computing Lab (未来媒体计算实验室)</a> 
+  at University of Science and Technology of China, advised by 
+  <a href="https://faculty.ustc.edu.cn/yangxun/zh_CN/index/599242/list/index.htm" target="_blank">Prof. Xun Yang (杨勋教授)</a>. 
+  My external co-advisor will be Associate Research Fellow
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=sdqv6pQAAAAJ&view_op=list_works" target="_blank">Fei Wang (王飞副研究员)</a> 
+  from Institute of Artificial Intelligence, Hefei Comprehensive National Science Center.
   </p>
-  <p>
-    My research focuses on Large Language Models (LLMs), Multimodal LLMs (MLLMs) and AI for science. The detailed research focuses are listed below.
-  </p>
-  <p>
-  <ol>
+
+  <p>My research interests primarily lie in Affective Computing, 3D Reconstruction, and AI for Science, with the following specific focuses:</p>
+  <ul>
     <li>Multimodal Large Language Models for Affective Computing</li>
     <li>3D Vision and Computer Graphics</li>
     <li>AI for Science, such as AI for Psychology and AI for Biology</li>
+  </ul>
 
-  </ol>
-  </p>
-  <p>
-    Beyond my academic work, I enjoy mountaineering, hiking, and landscape photography. 
-  </p>
+  <p>Beyond academia, I enjoy mountaineering, hiking, and landscape photography.</p>
 
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -51,19 +59,24 @@ education:
 - name: Hefei University of Technology (HFUT)
   logo: /assets/images/badges/HFUTlogo.png
   position: >- 
-    B.E. in Computer Science and Technology<br/>
-  date: 2023.09 - Present
+    B.Eng. in Computer Science and Technology<br/>
+  date: 2023.09 - 2027.06
+- name: University of Science and Technology of China (USTC)
+  logo: /assets/images/badges/USTClogo.png
+  position: >- 
+    Master in Computer Technology<br/>
+  date: 2027.09 - 
 
 
 experience:
-  - name: Institute of Advanced Technology, University of Science and Technology of China (IAT, USTC)
-    logo: /assets/images/badges/IAT.jpg
-    position: Research Intern
-    date: 2025.07 - Present
-  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center (IAI)
+  # - name: Institute of Advanced Technology, University of Science and Technology of China (IAT, USTC)
+  #   logo: /assets/images/badges/IAT.jpg
+  #   position: Research Intern
+  #   date: 2025.07 - Present
+  - name: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
     logo: /assets/images/badges/AI.jpeg
     position: Research Intern
-    date: 2025.07 - Present
+    date: 2025.04 - Present
 
 awards:
 - name: Second Prize Scholarship at Hefei University of Technology (Top 5%)
