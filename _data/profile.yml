@@ -4,9 +4,9 @@ navbar_name: "Xinye's Homepage"
 
 positions:
 - logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
-  name: Fourth-Year Undergraduate @ Hefei University of Technology (HFUT)
+  name: Fourth-Year Undergraduate @ Hefei University of Technology
 - logo: /assets/images/badges/USTClogo.png
-  name: Research Intern @ University of Science and Technology of China (USTC)
+  name: Research Intern @ University of Science and Technology of China
 
 
 email: "shaneyale@mail.hfut.edu.cn"
