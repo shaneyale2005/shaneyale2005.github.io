@@ -1,6 +1,6 @@
-primary_name: "Zheng"
-secondary_name: "Xinye「郑鑫业」"
-navbar_name: "Xinye's Homepage"
+primary_name: "Xinye"
+secondary_name: "Zheng「郑鑫业」"
+navbar_name: "Homepage"
 
 positions:
 - logo: /assets/images/badges/HFUTlogo.png  # Logo is optional
@@ -15,8 +15,8 @@ gscholar: 1gmI8p4AAAAJ  # This is an example, replace it with your own Google Sc
 github: shaneyale2005
 #twitter: your_twitter_id  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.png
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+wechat_prompt: >-
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
 orcid: 0009-0008-2361-2591
 
@@ -50,7 +50,6 @@ short_bio: >-
 
   <p>Beyond academia, I enjoy mountaineering, hiking, and landscape photography.</p>
 
-
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Phone Number：(+86) 188 3275 6106
@@ -80,6 +79,8 @@ experience:
 
 awards:
 - name: Third Prize Scholarship at Hefei University of Technology
+  date: 2026
+- name: Second Place in the 3DRR Challenge (Track 2), NTIRE @ CVPR 2026
   date: 2026
 - name: Second Prize Scholarship at Hefei University of Technology
   date: 2025
